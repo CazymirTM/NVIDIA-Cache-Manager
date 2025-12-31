@@ -1,7 +1,7 @@
 # NVIDIA Cache Manager 
 A simple cache manager for nvidia users that is usefull for cleaning temp files and free up space and even help your gpu run better because of shader deleting.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-red?style=for-the-badge&logo=github)](https://github.com/CazymirTM/NVIDIA-Cache-Manager/releases/latest)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-green?style=for-the-badge&logo=github)](https://github.com/CazymirTM/NVIDIA-Cache-Manager/releases/latest)
 
 ## ⚙️ Features
 - Can clear nvidia cache
